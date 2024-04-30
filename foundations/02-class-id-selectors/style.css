@@ -1,0 +1,19 @@
+#second-el {
+  color: #60a5fa;
+  font-size: 36px;
+}
+
+#fourth-el {
+  background-color: #4ade80;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.odd-el {
+  background-color: #f87171;
+  font-family: "Verdana", "DeJavu Sans", "sans-serif";
+}
+
+.third-el {
+  font-size: 24px;
+}
