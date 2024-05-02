@@ -1,10 +1,36 @@
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 img {
   width: 100px;
   height: 100px;
+}
+
+.page,
+.plants-container,
+.plant {
+  display: flex;
+}
+
+.page {
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+}
+.plants-container {
+  gap: 54px;
+}
+
+.plant {
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+  gap: 8px;
+}
+
+.text {
+  text-align: center;
 }
 
 .title {
