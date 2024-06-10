@@ -12,7 +12,7 @@ html {
   display: grid;
   gap: 15px;
   grid-template: 1fr 1fr 4fr 1fr / 1fr 4fr;
-
+}
 .container div {
   padding: 15px;
   font-size: 32px;
